@@ -1,4 +1,6 @@
-![Amauri coding](https://i.imgur.com/1ZvVkDc.gif)
+<div align="center" style="background-color:#3B9C3F; padding: 20px; border-radius: 15px;">
+  <img src="https://play.pokemonshowdown.com/sprites/ani/breloom.gif" alt="Carlos coding" width="100" />
+</div>
 <h1 align="center">💫 About Me 💫</h1>
 
 <p align="justify">Hola!, Soy Carlos Armando Aranda Hernandez, estudiante de Ingenieria en Desarrollo y Gestion de Software, en mi perfil encontraras distintos proyectos que he realizado en mi universidad o por mi cuenta, mi principal enfoque es el **Desarrollo Backend**.</p>
